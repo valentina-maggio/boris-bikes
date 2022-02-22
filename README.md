@@ -15,10 +15,7 @@ Table and diagram representation of user stories.
 | Bike | use_bike |
 | Docking Station | release_bike |
 
-```sequence
-Person->Docking station: Wants bike
-Docking stattion-->Person: Release bike
-```
+![User story 1 diagram](/Users/Valentina/Projects/makers_projects/boris_bike/flowchart_1.png)
 
 | Object | Message |
 | --- | --- |
@@ -26,7 +23,4 @@ Docking stattion-->Person: Release bike
 | Bike | use_bike |
 | Bike | working |
 
-```sequence
-Person->Bike: Works?
-Bike-->Person: Works
-```
+![User story 2 diagram](/Users/Valentina/Projects/makers_projects/boris_bike/flowchart_2.png)
