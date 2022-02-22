@@ -12,15 +12,9 @@ Table and diagram representation of user stories.
 | Object | Message |
 | --- | --- |
 | Person | |
-| Bike | use_bike |
-| Docking Station | release_bike |
+| Bike | working? |
+| DockingStation | release_bike |
 
-![User story 1 diagram](https://github.com/valentina-maggio/boris-bikes/blob/main/flowchart_1.png)
-
-| Object | Message |
-| --- | --- |
-| Person | |
-| Bike | use_bike |
-| Bike | working |
+![User story diagram](https://github.com/valentina-maggio/boris-bikes/blob/main/flowchart_1.png)
 
 ![User story 2 diagram](https://github.com/valentina-maggio/boris-bikes/blob/main/flowchart_2.png)
