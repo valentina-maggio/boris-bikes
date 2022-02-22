@@ -15,7 +15,7 @@ Table and diagram representation of user stories.
 | Bike | use_bike |
 | Docking Station | release_bike |
 
-![User story 1 diagram](/Users/Valentina/Projects/makers_projects/boris_bike/flowchart_1.png)
+![User story 1 diagram](https://github.com/valentina-maggio/boris-bikes/blob/main/flowchart_1.png)
 
 | Object | Message |
 | --- | --- |
@@ -23,4 +23,4 @@ Table and diagram representation of user stories.
 | Bike | use_bike |
 | Bike | working |
 
-![User story 2 diagram](/Users/Valentina/Projects/makers_projects/boris_bike/flowchart_2.png)
+![User story 2 diagram](https://github.com/valentina-maggio/boris-bikes/blob/main/flowchart_2.png)
