@@ -9,13 +9,13 @@ Pairing partners: [Valentina Maggio](https://github.com/valentina-maggio) and [J
 
 | Object | Message |
 | --- | --- |
-| Person | --- |
+| Person | |
 | Bike | use_bike |
 | Docking Station | release_bike |
 
 
 | Object | Message |
 | --- | --- |
-| Person | --- |
+| Person | |
 | Bike | use_bike |
 | Bike | working |
