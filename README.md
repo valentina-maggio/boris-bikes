@@ -7,15 +7,26 @@ Pairing partners: [Valentina Maggio](https://github.com/valentina-maggio) and [J
 
 ## User Stories Keywords
 
+Table and diagram representation of user stories.
+
 | Object | Message |
 | --- | --- |
 | Person | |
 | Bike | use_bike |
 | Docking Station | release_bike |
 
+```sequence
+Person->Docking station: Wants bike
+Docking stattion-->Person: Release bike
+```
 
 | Object | Message |
 | --- | --- |
 | Person | |
 | Bike | use_bike |
 | Bike | working |
+
+```sequence
+Person->Bike: Works?
+Bike-->Person: Works
+```
