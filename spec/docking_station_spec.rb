@@ -1,3 +1,6 @@
-describe "Boris Bike" do
-  docking_station = DockingStation.new
+require 'docking_station'
+
+describe DockingStation do
+
+  
 end
