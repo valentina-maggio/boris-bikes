@@ -1,9 +1,10 @@
-require 'docking_station'
+require 'bike'
 
-describe "Bike" do
-  bike = Bike.new
-
+describe Bike do
   it "responds to working? method" do
-    expect(bike).to respond_to(:working?)
+    expect(subject).to respond_to(:working?)
+  end
+  it "says the bike is working" do
+    expect(subject.working?).to eq true
   end
 end
