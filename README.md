@@ -15,7 +15,7 @@ Table and diagram representation of user stories.
 | Bike | working? |
 | DockingStation | release_bike |
 
-Bike <-- working? --> true/false
+Bike <-- working? --> true/false<br  />
 DockingStation <-- release_bike --> a Bike
 
 ## From a Domain Model to a Feature Test
