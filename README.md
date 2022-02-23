@@ -15,9 +15,8 @@ Table and diagram representation of user stories.
 | Bike | working? |
 | DockingStation | release_bike |
 
-![User story diagram](https://github.com/valentina-maggio/boris-bikes/blob/main/flowchart_1.png)
-
-![User story 2 diagram](https://github.com/valentina-maggio/boris-bikes/blob/main/flowchart_2.png)
+Bike <-- working? --> true/false
+DockingStation <-- release_bike --> a Bike
 
 ## From a Domain Model to a Feature Test
 
