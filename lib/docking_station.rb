@@ -4,4 +4,8 @@ class DockingStation
   def release_bike
     Bike.new  
   end
+
+  def add(bike)
+    "bike"
+  end
 end
